@@ -2,6 +2,15 @@
 
 This project analyzes car specifications and characteristics using Python and pandas. The analysis includes data cleaning, exploration, filtering, and transformation operations on car dataset.
 
+# Disclaimer
+
+This repo is intended **purely for educational purposes**.
+
+The examples, models, and predictions used in this course are designed to teach how AI and LSTM models can be applied to financial data.  
+They are **not meant to provide investment advice**, nor should they be used as a basis for real-world trading.
+
+Always consult a certified financial advisor before making any financial decisions.
+
 ## Features
 - Loads and inspects the car dataset
 - Handles missing values (fills null values with mean)
@@ -32,3 +41,5 @@ Cars Data Analysis/
 │   └── cars_data.ipynb
 └── README.md
 ```
+
+Happy Learning
